@@ -32,6 +32,11 @@ const Home = () => {
       text2={"Many say exploration is part of our destiny, but it’s actually our duty to future generations."}
       text3={"Posted by Start Bootstrap on July 8, 2023"}
       />
+          <Textarea
+      text1={"Failure is not an option"}
+      text2={"Many say exploration is part of our destiny, but it’s actually our duty to future generations."}
+      text3={"Posted by Start Bootstrap on July 8, 2023"}
+      />
       <Button
       name={"Older Posts →"}
       tcolor={"White"}

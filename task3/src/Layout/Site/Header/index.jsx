@@ -6,7 +6,7 @@ const Header = () => {
     <>
     <Nav className='custom-nav '>
       <div className='d-flex justify-content-between mt-4 w-100 px-5'>
-        <Nav.Link href="/">Start Bootstrap</Nav.Link>
+        <Nav.Link to="/">Start Bootstrap</Nav.Link>
         <Nav >
           <Nav.Link href="/">Home</Nav.Link>
           <Nav.Link href="About">About</Nav.Link>
